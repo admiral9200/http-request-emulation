@@ -3,7 +3,7 @@
 import { ReactFlowProvider } from 'reactflow'
 
 // Components
-import { Aside, CustomDndContext, Flow, Header } from '@components'
+import { Aside, CustomDndContext, Flow } from '@components'
 
 export default function App() {
   return (
