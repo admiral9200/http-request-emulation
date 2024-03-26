@@ -1,5 +1,5 @@
 {
-  "name": "rawr-flow",
+  "name": "http-request-emulation",
   "version": "0.1.0",
   "private": true,
   "scripts": {
