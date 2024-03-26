@@ -10,7 +10,7 @@ export default function App() {
     <ReactFlowProvider>
       <CustomDndContext>
         <div className="flex h-full w-full flex-col">
-          <Header />
+          {/* <Header /> */}
           <div className="flex h-full w-full">
             <Aside />
             <Flow />

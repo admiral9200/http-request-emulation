@@ -51,7 +51,7 @@ export default function Flow() {
   return (
     <div className="h-full w-full">
       <ReactFlow
-        className="bg-editor-bg"
+        className="bg-sky-200"
         nodes={nodes}
         edges={edges}
         onNodesChange={onNodesChange}
